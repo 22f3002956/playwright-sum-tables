@@ -2,16 +2,16 @@
 const { chromium } = require('playwright');
 
 const seeds = [
-  'https://example.com/seed81',
-  'https://example.com/seed82',
-  'https://example.com/seed83',
-  'https://example.com/seed84',
-  'https://example.com/seed85',
-  'https://example.com/seed86',
-  'https://example.com/seed87',
-  'https://example.com/seed88',
-  'https://example.com/seed89',
-  'https://example.com/seed90',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=81',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=82',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=83',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=84',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=85',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=86',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=87',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=88',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=89',
+  'https://sanand0.github.io/tdsdata/js_table/?seed=90',
 ];
 
 (async () => {
